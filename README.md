@@ -10,3 +10,5 @@ On peut faire aussi faire des katas et du clean code avec Scratch ! Exemples en 
 
 ## Thymio
 [Exemples d'exercices](ateliers/thymio) que vous proposer pour programmer des robots Thymio
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
